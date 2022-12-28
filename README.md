@@ -1,2 +1,2 @@
 # lecture_code
-code for lecture of Object Oriented Programming in 2022
+code for lecture of python 2022
